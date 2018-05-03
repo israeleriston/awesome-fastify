@@ -18,6 +18,19 @@
 - [Introducing Fastify, a Speedy Node.js Web Framework](https://thenewstack.io/introducing-fastify-speedy-node-js-web-framework/)
 - [Fastify goes LTS with 1.0.0!](https://medium.com/the-node-js-collection/fastify-goes-lts-with-1-0-0-911112c64752)
 
+##### Ethan Arrowood
+[github.com](https://github.com/Ethan-Arrowood)
+- [How to get up and running with Fastify](https://medium.freecodecamp.org/how-to-get-up-and-running-with-fastify-8b7e23781844)
+
+
+#### Notices
+
+- [What is Fastity?](https://hype.codes/what-fastity)
+
+
+#### Follow
+Follow the project through our [github](https://github.com/fastify/fastify), [gitter](https://gitter.im/fastify) and [website](https://www.fastify.io/)
+
 
 ### <h2 align="center">Ecosystem</h2>
 Plugins maintained by the fastify team are listed under [Core](#core) while plugins maintained by the community are listed in the [Community](#community) section.
