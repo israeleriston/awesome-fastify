@@ -9,6 +9,11 @@
 
 - [Take Your HTTP Server to Ludicrous Speed](https://www.youtube.com/watch?v=gltzZjKYK1I)
 
+##### Tomas Della Vedova
+[github.com](https://github.com/delvedor)
+
+- [What if I told you that HTTP can be fast?](https://www.webexpo.net/prague2017/talk/what-if-i-told-you-that-http-can-be-fast/)
+
 
 #### Articles
 
@@ -22,6 +27,10 @@
 [github.com](https://github.com/Ethan-Arrowood)
 - [How to get up and running with Fastify](https://medium.freecodecamp.org/how-to-get-up-and-running-with-fastify-8b7e23781844)
 
+##### Tomas Della Vedova
+[github.com](https://github.com/delvedor)
+- [Fastify - Fast and low overhead web framework for Node.js](https://survivejs.com/blog/fastify-interview/)
+- [Node.js can HTTP/2 push!](https://medium.com/the-node-js-collection/node-js-can-http-2-push-b491894e1bb1)
 
 #### Notices
 
