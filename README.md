@@ -32,6 +32,10 @@
 - [Fastify - Fast and low overhead web framework for Node.js](https://survivejs.com/blog/fastify-interview/)
 - [Node.js can HTTP/2 push!](https://medium.com/the-node-js-collection/node-js-can-http-2-push-b491894e1bb1)
 
+##### Israel Eriston
+[github.com](https://github.com/israeleriston)
+- [Fastify — Não é mais um framework para node.js](https://medium.com/@IsraelEriston/fastify-n%C3%A3o-%C3%A9-mais-um-framework-para-node-js-783c3990cd55)
+
 #### Notices
 
 - [What is Fastity?](https://hype.codes/what-fastity)
