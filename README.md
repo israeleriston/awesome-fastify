@@ -116,3 +116,4 @@ Plugins maintained by the fastify team are listed under [Core](#core) while plug
 - [`fastify-tls-keygen`](https://gitlab.com/sebdeckers/fastify-tls-keygen) Automatically generate a browser-compatible, trusted, self-signed, localhost-only, TLS certificate.
 - [`fastify-ws`](https://github.com/gj/fastify-ws) WebSocket integration for Fastify — with support for WebSocket lifecycle hooks instead of a single handler function. Built upon [ws](https://github.com/websockets/ws) and [uws](https://github.com/uNetworking/bindings/tree/master/nodejs).
 - [`fastify-register-routes`](https://github.com/israeleriston/fastify-register-routes) Plugin that contains an scheme the auto-loading file, auto registration the routes and a wrap handler to a router.
+- [`kvdock`](https://github.com/zisam-glitch/kvdock) Multi-tier route caching and session plugin with single-flight stampede protection and 20+ storage drivers.
